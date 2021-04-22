@@ -1,0 +1,15 @@
+﻿{
+  "Host": "bitscapecrusade.hopto.org",
+  "Port": 5400,
+  "GameFont": "sourcesansproblack",
+  "EntityNameFont": "sourcesansproblack",
+  "ChatBubbleFont": "sourcesansproblack",
+  "ActionMsgFont": "sourcesansproblack",
+  "UIFont": "sourcesansproblack",
+  "ChatLines": 100,
+  "MenuMusic": "gamemenu2.ogg",
+  "MenuBackground": "background.png",
+  "IntroImages": [],
+  "UpdateUrl": "",
+  "MouseCursor": ""
+}
